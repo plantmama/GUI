@@ -2,8 +2,9 @@
 from tkinter import *
 # THE * SYMBOL MEANS EVERYTHING IN THE SPECIFIC PACKAGE
 
-
 # CREATE A VARIABLE FOR THE Tkinter FUNCTION ( Tk() )
-
+gui = Tk()
 # NOW GIVE IT A TITLE
+gui.title(" Heavenly ")
 # LASTLY GIVE IT A HEIGHT AND WIDTH
+gui.geometry('2 x 10')
