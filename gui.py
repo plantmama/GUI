@@ -7,4 +7,4 @@ gui = Tk()
 # NOW GIVE IT A TITLE
 gui.title(" Heavenly ")
 # LASTLY GIVE IT A HEIGHT AND WIDTH
-gui.geometry('2 x 10')
+gui.geometry("2x10")
